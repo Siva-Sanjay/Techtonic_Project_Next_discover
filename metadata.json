@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT NEXT — DISCOVER",
+  "description": "HUL AI-first brand management system - DISCOVER stage for evaluating trend fit across the portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
